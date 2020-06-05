@@ -1,0 +1,13 @@
+2020-05-19 16:08:21,271 INFO [root] [__init__.py(<module>:9)] - 测试日志是否会打印！
+2020-05-19 16:08:21,383 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '24296429-8bd7-4157-aca3-970aab0955f6'}
+2020-05-19 16:08:21,403 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,426 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,447 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,467 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,490 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,516 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'e2e53d10-0379-4fe7-8b82-3ed9753e0629'}
+2020-05-19 16:08:21,540 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,563 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,584 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,608 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 16:08:21,629 INFO [root] [test_ihrm_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
